@@ -1,5 +1,12 @@
 # Lulu
 
+## Configuration
+npm install
+
+## Start
+expo start
+
+
 Eslint:
 https://eslint.org/docs/user-guide/getting-started
 
